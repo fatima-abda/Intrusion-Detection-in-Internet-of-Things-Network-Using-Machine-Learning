@@ -1,0 +1,1 @@
+تم الاستاد على الكود الوارد في https://github.com/abhinav-bhardwaj/IoT-Network-Intrusion-Detection-System-UNSW-NB15/blob/master/UNSW_Project.ipynb وتطويره عن طريق اضافة دالة حساب وقت التدريب لكل خوارزمية وكذلك اضافةانواع اخرى من خوارزمية آلة المتجهات الداعمة وتغيير قيم الارتباط في كل مرة على افضل خوارزمية
